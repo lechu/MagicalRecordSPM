@@ -1,0 +1,3 @@
+module MagicalRecord {
+    header "MagicalRecord.h"
+}
